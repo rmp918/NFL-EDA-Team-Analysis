@@ -56,15 +56,18 @@ https://www.kaggle.com/rmp918/nfl-eda-team-analysis
 ![image](https://github.com/rmp918/NFL-EDA-Team-Analysis/blob/main/image/players_weight_distribution.png)
 
 
-      
+  我們也可用盒狀圖更加了解球員的身高體重是否有符合聯盟大多數球員的水準。除了一些離群值以外，透過盒狀圖可以看出，大多數球員的身高都落在 6尺 ~ 6尺4 之間，體重的部分則是落在 250~300 磅之間，除了像是前面有說到的進攻組的中鋒、哨鋒、絆鋒，防守組的絆鋒就會有較重的體重分布。
           
       
-
+![image](https://github.com/rmp918/NFL-EDA-Team-Analysis/blob/main/image/player_position_height.png)
+![image](https://github.com/rmp918/NFL-EDA-Team-Analysis/blob/main/image/player_position_weight.png)
   
+  我們也列出了前50大NFL球員的大學分佈。透過該長條圖我們可以發現，大多都是一些橄欖球名校名列前茅，像是Alabama, Ohio State, Florida 以及 Florida State。 這些其實都是很多運動的縮影，大多數的優秀球員都會來自傳統名校，因為有較好的資源可以讓他們在後續的選秀會上更容易被職業球團看到。
 
+![image](https://github.com/rmp918/NFL-EDA-Team-Analysis/blob/main/image/Top-50_colleges_by_number_of_players.png)
 
+最後，我們列出各位置的球員數，可以發現WR(外接員)有最多的球員數，大概可以推斷說，相較於其他位置而言，所有橄欖球球隊的跑鋒往往不只有一個，且可能時常需要因為球員受傷等狀況進行輪調，也需要放置大量替補外接員在板凳席上，因此會有相較多的球員數
 
+![image](https://github.com/rmp918/NFL-EDA-Team-Analysis/blob/main/image/Top%20position%20by%20number%20of%20players.png)
 
-
-
-
+以上，就是對於球員等相關資料的敘述型統計，接下來我們會針對球賽本身進一步分析。
